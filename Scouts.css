@@ -1,0 +1,24 @@
+@charset "utf-8";
+body {
+    background-color: #319166;
+}
+body nav {
+    background-color: #5A9EBB;
+}
+body header {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: xx-large;
+    text-align: center;
+    background-color: #378B55;
+}
+body nav ul {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+nav a:hover {
+    color: #CF2530;
+}
